@@ -30,6 +30,24 @@
         "region":"Kanto"
     },
     {
+        "name":"Gmax Venusaur",
+        "types":[
+            "Grass",
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/003-Gmax.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Mega Venusaur",
+        "types":[
+            "Grass",
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/003-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":4,
         "name":"Charmander",
         "types":[
@@ -55,6 +73,33 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Gmax Charizard",
+        "types":[
+            "Fire",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Gmax.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Mega Charizard X",
+        "types":[
+            "Fire",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Mega-X.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Mega Charizard Y",
+        "types":[
+            "Fire",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Mega-Y.png",
         "region":"Kanto"
     },
     {
@@ -85,6 +130,22 @@
         "region":"Kanto"
     },
     {
+        "name":"Gmax Blastoise",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/009-Gmax.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Mega Blastoise",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/009-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":10,
         "name":"Caterpie",
         "types":[
@@ -110,6 +171,15 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Gmax Butterfree",
+        "types":[
+            "Bug",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/012-Gmax.png",
         "region":"Kanto"
     },
     {
@@ -143,6 +213,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Mega Beedrill",
+        "types":[
+            "Bug",
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/015-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":16,
         "name":"Pidgey",
         "types":[
@@ -173,6 +252,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Mega Pidgeot",
+        "types":[
+            "Normal",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/018-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":19,
         "name":"Rattata",
         "types":[
@@ -182,6 +270,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Rattata",
+        "types":[
+            "Dark",
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/019-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":20,
         "name":"Raticate",
         "types":[
@@ -189,6 +286,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Raticate",
+        "types":[
+            "Dark",
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/020-Alola.png",
+        "region":"Alola"
     },
     {
         "id":21,
@@ -238,6 +344,14 @@
         "region":"Kanto"
     },
     {
+        "name":"Gmax Pikachu",
+        "types":[
+            "Electric"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/025-Gmax.png",
+        "region":"Kanto"
+    },
+    {
         "id":26,
         "name":"Raichu",
         "types":[
@@ -245,6 +359,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Raichu",
+        "types":[
+            "Electric",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/026-Alola.png",
+        "region":"Alola"
     },
     {
         "id":27,
@@ -256,6 +379,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Sandshrew",
+        "types":[
+            "Ice",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/027-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":28,
         "name":"Sandslash",
         "types":[
@@ -263,6 +395,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Sandslash",
+        "types":[
+            "Ice",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/028-Alola.png",
+        "region":"Alola"
     },
     {
         "id":29,
@@ -348,6 +489,14 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Vulpix",
+        "types":[
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/037-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":38,
         "name":"Ninetales",
         "types":[
@@ -355,6 +504,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Ninetales",
+        "types":[
+            "Ice",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/038-Alola.png",
+        "region":"Alola"
     },
     {
         "id":39,
@@ -476,6 +634,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Diglett",
+        "types":[
+            "Ground",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/050-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":51,
         "name":"Dugtrio",
         "types":[
@@ -483,6 +650,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Dugtrio",
+        "types":[
+            "Ground",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/051-Alola.png",
+        "region":"Alola"
     },
     {
         "id":52,
@@ -494,6 +670,30 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Meowth",
+        "types":[
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/052-Alola.png",
+        "region":"Alola"
+    },
+    {
+        "name":"Galarian Meowth",
+        "types":[
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/052-Galar.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Meowth",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/052-Gmax.png",
+        "region":"Kanto"
+    },
+    {
         "id":53,
         "name":"Persian",
         "types":[
@@ -501,6 +701,14 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Persian",
+        "types":[
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/053-Alola.png",
+        "region":"Alola"
     },
     {
         "id":54,
@@ -548,6 +756,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Hisuian Growlithe",
+        "types":[
+            "Fire",
+            "Bug"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/058-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":59,
         "name":"Arcanine",
         "types":[
@@ -555,6 +772,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Hisuian Arcanine",
+        "types":[
+            "Fire",
+            "Rock"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/059-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":60,
@@ -612,6 +838,14 @@
         "region":"Kanto"
     },
     {
+        "name":"Mega Alakazam",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/065-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":66,
         "name":"Machop",
         "types":[
@@ -636,6 +870,14 @@
             "Fighting"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Gmax Machamp",
+        "types":[
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/068-Gmax.png",
         "region":"Kanto"
     },
     {
@@ -699,6 +941,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Geodude",
+        "types":[
+            "Rock",
+            "Electric"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/074-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":75,
         "name":"Graveler",
         "types":[
@@ -707,6 +958,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Graveler",
+        "types":[
+            "Rock",
+            "Electric"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/075-Alola.png",
+        "region":"Alola"
     },
     {
         "id":76,
@@ -719,6 +979,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Golem",
+        "types":[
+            "Rock",
+            "Electric"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/076-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":77,
         "name":"Ponyta",
         "types":[
@@ -728,6 +997,14 @@
         "region":"Kanto"
     },
     {
+        "name":"Galarian Ponyta",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/077-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":78,
         "name":"Rapidash",
         "types":[
@@ -735,6 +1012,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Galarian Rapidash",
+        "types":[
+            "Psychic",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/078-Galar.png",
+        "region":"Galar"
     },
     {
         "id":79,
@@ -747,6 +1033,14 @@
         "region":"Kanto"
     },
     {
+        "name":"Galarian Slowpoke",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/079-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":80,
         "name":"Slowbro",
         "types":[
@@ -754,6 +1048,24 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Galarian Slowbro",
+        "types":[
+            "Poison",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/080-Galar.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Mega Slowbro",
+        "types":[
+            "Water",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/080-Mega.png",
         "region":"Kanto"
     },
     {
@@ -785,6 +1097,14 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Galarian Farfetch'd",
+        "types":[
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/083-Galar.png",
+        "region":"Galar"
     },
     {
         "id":84,
@@ -835,6 +1155,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Grimer",
+        "types":[
+            "Poison",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/088-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":89,
         "name":"Muk",
         "types":[
@@ -842,6 +1171,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Muk",
+        "types":[
+            "Poison",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/089-Alola.png",
+        "region":"Alola"
     },
     {
         "id":90,
@@ -893,6 +1231,24 @@
         "region":"Kanto"
     },
     {
+        "name":"Gmax Gengar",
+        "types":[
+            "Ghost",
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/094-Gmax.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Mega Gengar",
+        "types":[
+            "Ghost",
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/094-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":95,
         "name":"Onix",
         "types":[
@@ -939,6 +1295,14 @@
         "region":"Kanto"
     },
     {
+        "name":"Gmax Kingler",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/099-Gmax.png",
+        "region":"Kanto"
+    },
+    {
         "id":100,
         "name":"Voltorb",
         "types":[
@@ -948,6 +1312,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Hisuian Voltorb",
+        "types":[
+            "Electric",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/100-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":101,
         "name":"Electrode",
         "types":[
@@ -955,6 +1328,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Hisuian Electrode",
+        "types":[
+            "Electric",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/101-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":102,
@@ -977,6 +1359,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Alolan Exeggutor",
+        "types":[
+            "Grass",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/103-Alola.png",
+        "region":"Alola"
+    },
+    {
         "id":104,
         "name":"Cubone",
         "types":[
@@ -993,6 +1384,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Alolan Marowak",
+        "types":[
+            "Fire",
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/105-Alola.png",
+        "region":"Alola"
     },
     {
         "id":106,
@@ -1040,6 +1440,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Galarian Weezing",
+        "types":[
+            "Poison",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/110-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":111,
         "name":"Rhyhorn",
         "types":[
@@ -1084,6 +1493,14 @@
             "Normal"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Mega Kangaskhan",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/115-Mega.png",
         "region":"Kanto"
     },
     {
@@ -1152,6 +1569,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Galarian Mr. Mime",
+        "types":[
+            "Ice",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/122-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":123,
         "name":"Scyther",
         "types":[
@@ -1199,6 +1625,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Mega Pinsir",
+        "types":[
+            "Bug",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/127-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":128,
         "name":"Tauros",
         "types":[
@@ -1206,6 +1641,32 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
         "region":"Kanto"
+    },
+    {
+        "name":"Paldean Tauros Combat Breed",
+        "types":[
+            "Fighting"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/2/25/0128Tauros-Paldea_Combat.png/110px-0128Tauros-Paldea_Combat.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Paldean Tauros Blaze Breed",
+        "types":[
+            "Fighting",
+            "Fire"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/f/f5/0128Tauros-Paldea_Blaze.png/110px-0128Tauros-Paldea_Blaze.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Paldean Tauros Aqua Breed",
+        "types":[
+            "Fighting",
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d9/0128Tauros-Paldea_Aqua.png/110px-0128Tauros-Paldea_Aqua.png",
+        "region":"Paldea"
     },
     {
         "id":129,
@@ -1227,6 +1688,15 @@
         "region":"Kanto"
     },
     {
+        "name":"Mega Gyarados",
+        "types":[
+            "Water",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/130-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":131,
         "name":"Lapras",
         "types":[
@@ -1234,6 +1704,15 @@
             "Ice"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Gmax Lapras",
+        "types":[
+            "Water",
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/131-Gmax.png",
         "region":"Kanto"
     },
     {
@@ -1252,6 +1731,14 @@
             "Normal"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Gmax Eevee",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/133-Gmax.png",
         "region":"Kanto"
     },
     {
@@ -1341,12 +1828,29 @@
         "region":"Kanto"
     },
     {
+        "name":"Mega Aerodactyl",
+        "types":[
+            "Rock",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/142-Mega.png",
+        "region":"Kanto"
+    },
+    {
         "id":143,
         "name":"Snorlax",
         "types":[
             "Normal"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png",
+        "region":"Kanto"
+    },
+    {
+        "name":"Gmax Snorlax",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/143-Gmax.png",
         "region":"Kanto"
     },
     {
@@ -1361,6 +1865,16 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Galarian Articuno",
+        "types":[
+            "Psychic",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/144-Galar.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
         "id":145,
         "name":"Zapdos",
         "types":[
@@ -1372,6 +1886,16 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Galarian Zapdos",
+        "types":[
+            "Fighting",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/145-Galar.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
         "id":146,
         "name":"Moltres",
         "types":[
@@ -1380,6 +1904,16 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png",
         "region":"Kanto",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Galarian Moltres",
+        "types":[
+            "Dark",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/146-Galar.png",
+        "region":"Galar",
         "rarity":"Legendary"
     },
     {
@@ -1417,6 +1951,25 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
+        "region":"Kanto",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Mega Mewtwo X",
+        "types":[
+            "Psychic",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/150-Mega-X.png",
+        "region":"Kanto",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Mega Mewtwo Y",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/150-Mega-Y.png",
         "region":"Kanto",
         "rarity":"Legendary"
     },
@@ -1483,6 +2036,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png",
         "region":"Johto"
+    },
+    {
+        "name":"Hisuian Typhlosion",
+        "types":[
+            "Fire",
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/157-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":158,
@@ -1714,6 +2276,15 @@
         "region":"Johto"
     },
     {
+        "name":"Mega Ampharos",
+        "types":[
+            "Electric",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/181-Mega.png",
+        "region":"Johto"
+    },
+    {
         "id":182,
         "name":"Bellossom",
         "types":[
@@ -1838,6 +2409,15 @@
         "region":"Johto"
     },
     {
+        "name":"Paldean Wooper",
+        "types":[
+            "Poison",
+            "Ground"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/b/bb/0194Wooper-Paldea.png/110px-0194Wooper-Paldea.png",
+        "region":"Paldea"
+    },
+    {
         "id":195,
         "name":"Quagsire",
         "types":[
@@ -1884,6 +2464,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/199.png",
         "region":"Johto"
+    },
+    {
+        "name":"Galarian Slowking",
+        "types":[
+            "Poison",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/199-Galar.png",
+        "region":"Galar"
     },
     {
         "id":200,
@@ -1971,6 +2560,15 @@
         "region":"Johto"
     },
     {
+        "name":"Mega Steelix",
+        "types":[
+            "Steel",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/208-Mega.png",
+        "region":"Johto"
+    },
+    {
         "id":209,
         "name":"Snubbull",
         "types":[
@@ -1999,6 +2597,15 @@
         "region":"Johto"
     },
     {
+        "name":"Hisuian Qwilfish",
+        "types":[
+            "Dark",
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/211-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":212,
         "name":"Scizor",
         "types":[
@@ -2006,6 +2613,15 @@
             "Steel"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png",
+        "region":"Johto"
+    },
+    {
+        "name":"Mega Scizor",
+        "types":[
+            "Bug",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/212-Mega.png",
         "region":"Johto"
     },
     {
@@ -2029,6 +2645,15 @@
         "region":"Johto"
     },
     {
+        "name":"Mega Heracross",
+        "types":[
+            "Bug",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/214-Mega.png",
+        "region":"Johto"
+    },
+    {
         "id":215,
         "name":"Sneasel",
         "types":[
@@ -2037,6 +2662,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/215.png",
         "region":"Johto"
+    },
+    {
+        "name":"Hisuian Sneasel",
+        "types":[
+            "Poison",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/215-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":216,
@@ -2106,6 +2740,14 @@
         "region":"Johto"
     },
     {
+        "name":"Galarian Corsola",
+        "types":[
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/222-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":223,
         "name":"Remoraid",
         "types":[
@@ -2171,6 +2813,15 @@
             "Fire"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png",
+        "region":"Johto"
+    },
+    {
+        "name":"Mega Houndoom",
+        "types":[
+            "Dark",
+            "Fire"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/229-Mega.png",
         "region":"Johto"
     },
     {
@@ -2353,6 +3004,15 @@
         "region":"Johto"
     },
     {
+        "name":"Mega Tyranitar",
+        "types":[
+            "Rock",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/248-Mega.png",
+        "region":"Johto"
+    },
+    {
         "id":249,
         "name":"Lugia",
         "types":[
@@ -2413,6 +3073,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Sceptile",
+        "types":[
+            "Grass",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/254-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":255,
         "name":"Torchic",
         "types":[
@@ -2439,6 +3108,15 @@
             "Fighting"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Blaziken",
+        "types":[
+            "Fire",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/257-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -2471,6 +3149,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Swampert",
+        "types":[
+            "Water",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/260-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":261,
         "name":"Poochyena",
         "types":[
@@ -2498,6 +3185,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Galarian Zigzagoon",
+        "types":[
+            "Dark",
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/263-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":264,
         "name":"Linoone",
         "types":[
@@ -2505,6 +3201,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/264.png",
         "region":"Hoenn"
+    },
+    {
+        "name":"Galarian Linoone",
+        "types":[
+            "Dark",
+            "Normal"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/264-Galar.png",
+        "region":"Galar"
     },
     {
         "id":265,
@@ -2680,6 +3385,15 @@
             "Fairy"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Gardevoir",
+        "types":[
+            "Psychic",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/282-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -2871,6 +3585,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Sableye",
+        "types":[
+            "Dark",
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/302-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":303,
         "name":"Mawile",
         "types":[
@@ -2878,6 +3601,15 @@
             "Fairy"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Mawile",
+        "types":[
+            "Steel",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/303-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -2911,6 +3643,14 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Aggron",
+        "types":[
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/306-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":307,
         "name":"Meditite",
         "types":[
@@ -2931,6 +3671,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Medicham",
+        "types":[
+            "Fighting",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/308-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":309,
         "name":"Electrike",
         "types":[
@@ -2946,6 +3695,14 @@
             "Electric"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Manectric",
+        "types":[
+            "Electric"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/310-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -3033,6 +3790,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Sharpedo",
+        "types":[
+            "Water",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/319-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":320,
         "name":"Wailmer",
         "types":[
@@ -3068,6 +3834,15 @@
             "Ground"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Camerupt",
+        "types":[
+            "Fire",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/323-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -3172,6 +3947,15 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Altaria",
+        "types":[
+            "Dragon",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/334-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -3339,6 +4123,30 @@
         "region":"Hoenn"
     },
     {
+        "name":"Castform Sunny Form",
+        "types":[
+            "Fire"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/90/0351Castform-Sunny.png/110px-0351Castform-Sunny.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Castform Rainy Form",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/ab/0351Castform-Rainy.png/110px-0351Castform-Rainy.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Castform Snowy Form",
+        "types":[
+            "Ice"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/3/34/0351Castform-Snowy.png/110px-0351Castform-Snowy.png",
+        "region":"Hoenn"
+    },
+    {
         "id":352,
         "name":"Kecleon",
         "types":[
@@ -3363,6 +4171,14 @@
             "Ghost"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Banette",
+        "types":[
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/354-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -3412,6 +4228,14 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Absol",
+        "types":[
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/359-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":360,
         "name":"Wynaut",
         "types":[
@@ -3436,6 +4260,14 @@
             "Ice"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Glalie",
+        "types":[
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/362-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -3543,6 +4375,15 @@
         "region":"Hoenn"
     },
     {
+        "name":"Mega Salamence",
+        "types":[
+            "Dragon",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/373-Mega.png",
+        "region":"Hoenn"
+    },
+    {
         "id":374,
         "name":"Beldum",
         "types":[
@@ -3570,6 +4411,15 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376.png",
+        "region":"Hoenn"
+    },
+    {
+        "name":"Mega Metagross",
+        "types":[
+            "Steel",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/376-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -3614,6 +4464,16 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Mega Latias",
+        "types":[
+            "Dragon",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/380-Mega.png",
+        "region":"Hoenn",
+        "rarity":"Legendary"
+    },
+    {
         "id":381,
         "name":"Latios",
         "types":[
@@ -3621,6 +4481,16 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png",
+        "region":"Hoenn",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Mega Latios",
+        "types":[
+            "Dragon",
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/381-Mega.png",
         "region":"Hoenn",
         "rarity":"Legendary"
     },
@@ -3635,12 +4505,31 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Primal Kyogre",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/382-Primal.png",
+        "region":"Hoenn",
+        "rarity":"Legendary"
+    },
+    {
         "id":383,
         "name":"Groudon",
         "types":[
             "Ground"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png",
+        "region":"Hoenn",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Primal Groudon",
+        "types":[
+            "Ground",
+            "Fire"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/383-Primal.png",
         "region":"Hoenn",
         "rarity":"Legendary"
     },
@@ -3652,6 +4541,16 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png",
+        "region":"Hoenn",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Mega Rayquaza",
+        "types":[
+            "Dragon",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/384-Mega.png",
         "region":"Hoenn",
         "rarity":"Legendary"
     },
@@ -3673,6 +4572,33 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png",
+        "region":"Hoenn",
+        "rarity":"Mythical"
+    },
+    {
+        "name":"Deoxys Attack Forme",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/386-Attack.png",
+        "region":"Hoenn",
+        "rarity":"Mythical"
+    },
+    {
+        "name":"Deoxys Defense Forme",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/386-Defense.png",
+        "region":"Hoenn",
+        "rarity":"Mythical"
+    },
+    {
+        "name":"Deoxys Speed Forme",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/386-Speed.png",
         "region":"Hoenn",
         "rarity":"Mythical"
     },
@@ -3923,6 +4849,22 @@
         "region":"Sinnoh"
     },
     {
+        "name":"Burmy Sandy Cloak",
+        "types":[
+            "Bug"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/412-Sandy.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Burmy Trash Cloak",
+        "types":[
+            "Bug"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/412-Trash.png",
+        "region":"Sinnoh"
+    },
+    {
         "id":413,
         "name":"Wormadam Plant Cloak",
         "types":[
@@ -3930,6 +4872,24 @@
             "Grass"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Wormadam Sandy Cloak",
+        "types":[
+            "Bug",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/413-Sandy.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Wormadam Trash Cloak",
+        "types":[
+            "Bug",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/413-Trash.png",
         "region":"Sinnoh"
     },
     {
@@ -4008,12 +4968,28 @@
         "region":"Sinnoh"
     },
     {
+        "name":"Cherrim Sunshine Form",
+        "types":[
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/421-Sunshine.png",
+        "region":"Sinnoh"
+    },
+    {
         "id":422,
         "name":"Shellos West",
         "types":[
             "Water"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/422.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Shellos East",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/422-East.png",
         "region":"Sinnoh"
     },
     {
@@ -4024,6 +5000,15 @@
             "Ground"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/423.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Gastrodon East",
+        "types":[
+            "Water",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/423-East.png",
         "region":"Sinnoh"
     },
     {
@@ -4071,6 +5056,15 @@
             "Normal"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Mega Lopunny",
+        "types":[
+            "Normal",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/428-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -4238,6 +5232,15 @@
         "region":"Sinnoh"
     },
     {
+        "name":"Mega Garchomp",
+        "types":[
+            "Dragon",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/445-Mega.png",
+        "region":"Sinnoh"
+    },
+    {
         "id":446,
         "name":"Munchlax",
         "types":[
@@ -4263,6 +5266,15 @@
             "Steel"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Mega Lucario",
+        "types":[
+            "Fighting",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/448-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -4378,6 +5390,15 @@
             "Ice"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Mega Abomasnow",
+        "types":[
+            "Grass",
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/460-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -4524,6 +5545,15 @@
         "region":"Sinnoh"
     },
     {
+        "name":"Mega Gallade",
+        "types":[
+            "Psychic",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/475-Mega.png",
+        "region":"Sinnoh"
+    },
+    {
         "id":476,
         "name":"Probopass",
         "types":[
@@ -4560,6 +5590,51 @@
             "Ghost"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Heat Rotom",
+        "types":[
+            "Electric",
+            "Fire"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Heat.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Wash Rotom",
+        "types":[
+            "Electric",
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Wash.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Frost Rotom",
+        "types":[
+            "Electric",
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Frost.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Fan Rotom",
+        "types":[
+            "Electric",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Fan.png",
+        "region":"Sinnoh"
+    },
+    {
+        "name":"Mow Rotom",
+        "types":[
+            "Electric",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Mow.png",
         "region":"Sinnoh"
     },
     {
@@ -4604,6 +5679,16 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Dialga Origin Forme",
+        "types":[
+            "Steel",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/483-Origin.png",
+        "region":"Sinnoh",
+        "rarity":"Legendary"
+    },
+    {
         "id":484,
         "name":"Palkia",
         "types":[
@@ -4611,6 +5696,16 @@
             "Dragon"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/484.png",
+        "region":"Sinnoh",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Palkia Origin Forme",
+        "types":[
+            "Water",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/484-Origin.png",
         "region":"Sinnoh",
         "rarity":"Legendary"
     },
@@ -4643,6 +5738,16 @@
             "Dragon"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png",
+        "region":"Sinnoh",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Giratina Origin Forme",
+        "types":[
+            "Ghost",
+            "Dragon"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/487-Origin.png",
         "region":"Sinnoh",
         "rarity":"Legendary"
     },
@@ -4693,6 +5798,15 @@
             "Grass"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png",
+        "region":"Sinnoh",
+        "rarity":"Mythical"
+    },
+    {
+        "name":"Shaymin Sky Forme",
+        "types":[
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/492-Sky.png",
         "region":"Sinnoh",
         "rarity":"Mythical"
     },
@@ -4799,6 +5913,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/503.png",
         "region":"Unova"
+    },
+    {
+        "name":"Hisuian Samurott",
+        "types":[
+            "Water",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/503-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":504,
@@ -5059,6 +6182,15 @@
         "region":"Unova"
     },
     {
+        "name":"Mega Audino",
+        "types":[
+            "Normal",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/531-Mega.png",
+        "region":"Unova"
+    },
+    {
         "id":532,
         "name":"Timburr",
         "types":[
@@ -5231,6 +6363,15 @@
         "region":"Unova"
     },
     {
+        "name":"Hisuian Lilligant",
+        "types":[
+            "Grass",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/549-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":550,
         "name":"Basculin",
         "types":[
@@ -5279,6 +6420,14 @@
         "region":"Unova"
     },
     {
+        "name":"Galarian Darumaka",
+        "types":[
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/554-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":555,
         "name":"Darmanitan Standard Mode",
         "types":[
@@ -5286,6 +6435,31 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/555.png",
         "region":"Unova"
+    },
+    {
+        "name":"Galarian Darmanitan Standard Mode",
+        "types":[
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/555-Galar-Standard.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Darmanitan Zen Mode",
+        "types":[
+            "Fire"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/555-Zen.png",
+        "region":"Unova"
+    },
+    {
+        "name":"Galarian Darmanitan Zen Mode",
+        "types":[
+            "Ice",
+            "Fire"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/555-Galar-Zen.png",
+        "region":"Galar"
     },
     {
         "id":556,
@@ -5356,6 +6530,15 @@
         "region":"Unova"
     },
     {
+        "name":"Galarian Yamask",
+        "types":[
+            "Ground",
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/562-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":563,
         "name":"Cofagrigus",
         "types":[
@@ -5423,6 +6606,14 @@
         "region":"Unova"
     },
     {
+        "name":"Gmax Garbodor",
+        "types":[
+            "Poison"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/569-Gmax.png",
+        "region":"Unova"
+    },
+    {
         "id":570,
         "name":"Zorua",
         "types":[
@@ -5432,6 +6623,15 @@
         "region":"Unova"
     },
     {
+        "name":"Hisuian Zorua",
+        "types":[
+            "Normal",
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/570-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":571,
         "name":"Zoroark",
         "types":[
@@ -5439,6 +6639,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/571.png",
         "region":"Unova"
+    },
+    {
+        "name":"Hisuian Zoroark",
+        "types":[
+            "Normal",
+            "Ghost"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/571-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":572,
@@ -5570,6 +6779,33 @@
         "region":"Unova"
     },
     {
+        "name":"Deerling Autumn Form",
+        "types":[
+            "Normal",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/585-Autumn.png",
+        "region":"Unova"
+    },
+    {
+        "name":"Deerling Summer Form",
+        "types":[
+            "Normal",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/585-Summer.png",
+        "region":"Unova"
+    },
+    {
+        "name":"Deerling Winter Form",
+        "types":[
+            "Normal",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/585-Winter.png",
+        "region":"Unova"
+    },
+    {
         "id":586,
         "name":"Sawsbuck",
         "types":[
@@ -5577,6 +6813,33 @@
             "Grass"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png",
+        "region":"Unova"
+    },
+    {
+        "name":"Sawsbuck Autumn Form",
+        "types":[
+            "Normal",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/586-Autumn.png",
+        "region":"Unova"
+    },
+    {
+        "name":"Sawsbuck Summer Form",
+        "types":[
+            "Normal",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/586-Summer.png",
+        "region":"Unova"
+    },
+    {
+        "name":"Sawsbuck Winter Form",
+        "types":[
+            "Normal",
+            "Grass"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/586-Winter.png",
         "region":"Unova"
     },
     {
@@ -5882,6 +7145,15 @@
         "region":"Unova"
     },
     {
+        "name":"Galarian Stunfisk",
+        "types":[
+            "Ground",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/618-Galar.png",
+        "region":"Galar"
+    },
+    {
         "id":619,
         "name":"Mienfoo",
         "types":[
@@ -5976,6 +7248,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/628.png",
         "region":"Unova"
+    },
+    {
+        "name":"Hisuian Braviary",
+        "types":[
+            "Psychic",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/628-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":629,
@@ -6110,6 +7391,15 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Tornadus Therian Forme",
+        "types":[
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/641-Therian.png",
+        "region":"Unova",
+        "rarity":"Legendary"
+    },
+    {
         "id":642,
         "name":"Thundurus Incarnate Forme",
         "types":[
@@ -6117,6 +7407,16 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png",
+        "region":"Unova",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Thundurus Therian Forme",
+        "types":[
+            "Electric",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/642-Therian.png",
         "region":"Unova",
         "rarity":"Legendary"
     },
@@ -6154,6 +7454,16 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Landorus Therian Forme",
+        "types":[
+            "Ground",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/645-Therian.png",
+        "region":"Unova",
+        "rarity":"Legendary"
+    },
+    {
         "id":646,
         "name":"Kyurem",
         "types":[
@@ -6161,6 +7471,26 @@
             "Ice"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png",
+        "region":"Unova",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Kyurem Black",
+        "types":[
+            "Dragon",
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/646-Black.png",
+        "region":"Unova",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Kyurem White",
+        "types":[
+            "Dragon",
+            "Ice"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/646-White.png",
         "region":"Unova",
         "rarity":"Legendary"
     },
@@ -6176,6 +7506,16 @@
         "rarity":"Mythical"
     },
     {
+        "name":"Keldeo Resolute Form",
+        "types":[
+            "Water",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/647-Resolute.png",
+        "region":"Unova",
+        "rarity":"Mythical"
+    },
+    {
         "id":648,
         "name":"Meloetta Aria Forme",
         "types":[
@@ -6183,6 +7523,16 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png",
+        "region":"Unova",
+        "rarity":"Mythical"
+    },
+    {
+        "name":"Meloetta Pirouette Forme",
+        "types":[
+            "Normal",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/648-Pirouette.png",
         "region":"Unova",
         "rarity":"Mythical"
     },
@@ -6279,6 +7629,15 @@
             "Dark"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png",
+        "region":"Kalos"
+    },
+    {
+        "name":"Ash-Greninja",
+        "types":[
+            "Water",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/658-Ash.png",
         "region":"Kalos"
     },
     {
@@ -6397,6 +7756,14 @@
         "region":"Kalos"
     },
     {
+        "name":"Floette Eternal",
+        "types":[
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/670-Eternal.png",
+        "region":"Kalos"
+    },
+    {
         "id":671,
         "name":"Florges",
         "types":[
@@ -6467,6 +7834,14 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png",
+        "region":"Kalos"
+    },
+    {
+        "name":"Meowstic Male",
+        "types":[
+            "Psychic"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/678.png",
         "region":"Kalos"
     },
     {
@@ -6731,6 +8106,15 @@
         "region":"Kalos"
     },
     {
+        "name":"Hisuian Sliggoo",
+        "types":[
+            "Dragon",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/705-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":706,
         "name":"Goodra",
         "types":[
@@ -6738,6 +8122,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/706.png",
         "region":"Kalos"
+    },
+    {
+        "name":"Hisuian Goodra",
+        "types":[
+            "Dragon",
+            "Steel"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/706-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":707,
@@ -6808,6 +8201,15 @@
         "region":"Kalos"
     },
     {
+        "name":"Hisuian Avalugg",
+        "types":[
+            "Ice",
+            "Rock"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/713-Hisui.png",
+        "region":"Hisui"
+    },
+    {
         "id":714,
         "name":"Noibat",
         "types":[
@@ -6849,6 +8251,16 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Zygarde 10% Forme",
+        "types":[
+            "Dragon",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/718-10.png",
+        "region":"Kalos",
+        "rarity":"Legendary"
+    },
+    {
         "id":718,
         "name":"Zygarde 50% Forme",
         "types":[
@@ -6856,6 +8268,16 @@
             "Ground"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png",
+        "region":"Kalos",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Zygarde Complete Forme",
+        "types":[
+            "Dragon",
+            "Ground"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/718-Complete.png",
         "region":"Kalos",
         "rarity":"Legendary"
     },
@@ -6871,6 +8293,16 @@
         "rarity":"Mythical"
     },
     {
+        "name":"Mega Diancie",
+        "types":[
+            "Rock",
+            "Fairy"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/719-Mega.png",
+        "region":"Kalos",
+        "rarity":"Mythical"
+    },
+    {
         "id":720,
         "name":"Hoopa Confined",
         "types":[
@@ -6878,6 +8310,16 @@
             "Ghost"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png",
+        "region":"Kalos",
+        "rarity":"Mythical"
+    },
+    {
+        "name":"Hoopa Unbound",
+        "types":[
+            "Psychic",
+            "Dark"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/720-Unbound.png",
         "region":"Kalos",
         "rarity":"Mythical"
     },
@@ -6921,6 +8363,15 @@
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/724.png",
         "region":"Alola"
+    },
+    {
+        "name":"Hisuian Decidueye",
+        "types":[
+            "Grass",
+            "Fighting"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/724-Hisui.png",
+        "region":"Hisui"
     },
     {
         "id":725,
@@ -7085,6 +8536,33 @@
         "region":"Alola"
     },
     {
+        "name":"Oricorio Pom-Pom Style",
+        "types":[
+            "Electric",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Pom-Pom.png",
+        "region":"Alola"
+    },
+    {
+        "name":"Oricorio Pa'u Style",
+        "types":[
+            "Psychic",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Pau.png",
+        "region":"Alola"
+    },
+    {
+        "name":"Oricorio Sensu Style",
+        "types":[
+            "Ghost",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Sensu.png",
+        "region":"Alola"
+    },
+    {
         "id":742,
         "name":"Cutiefly",
         "types":[
@@ -7123,12 +8601,36 @@
         "region":"Alola"
     },
     {
+        "name":"Lycanroc Midnight Form",
+        "types":[
+            "Rock"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/745-Midnight.png",
+        "region":"Alola"
+    },
+    {
+        "name":"Lycanroc Dusk Form",
+        "types":[
+            "Rock"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/745-Dusk.png",
+        "region":"Alola"
+    },
+    {
         "id":746,
         "name":"Wishiwashi Solo Form",
         "types":[
             "Water"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/746.png",
+        "region":"Alola"
+    },
+    {
+        "name":"Wishiwashi School Form",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/746-School.png",
         "region":"Alola"
     },
     {
@@ -7402,6 +8904,15 @@
         "region":"Alola"
     },
     {
+        "name":"Minior Core Form",
+        "types":[
+            "Rock",
+            "Flying"
+        ],
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/774-Red.png",
+        "region":"Alola"
+    },
+    {
         "id":775,
         "name":"Komala",
         "types":[
@@ -7438,6 +8949,15 @@
             "Fairy"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/778.png",
+        "region":"Alola"
+    },
+    {
+        "name":"Mimikyu Busted Form",
+        "types":[
+            "Ghost",
+            "Fairy"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/4d/HOME0778B.png/110px-HOME0778B.png",
         "region":"Alola"
     },
     {
@@ -7672,6 +9192,36 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Dusk Mane Necrozma",
+        "types":[
+            "Psychic",
+            "Steel"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/6b/0800Necrozma-Dusk_Mane.png/110px-0800Necrozma-Dusk_Mane.png",
+        "region":"Alola",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Dawn Wings Necrozma",
+        "types":[
+            "Psychic",
+            "Ghost"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/67/0800Necrozma-Dawn_Wings.png/110px-0800Necrozma-Dawn_Wings.png",
+        "region":"Alola",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Ultra Necrozma",
+        "types":[
+            "Psychic",
+            "Dragon"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/e/e9/0800Necrozma-Ultra.png/110px-0800Necrozma-Ultra.png",
+        "region":"Alola",
+        "rarity":"Legendary"
+    },
+    {
         "id":801,
         "name":"Magearna",
         "types":[
@@ -7767,6 +9317,15 @@
         "rarity":"Mythical"
     },
     {
+        "name":"Gmax Melmetal",
+        "types":[
+            "Steel"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a1/0809Melmetal-Gigantamax.png/100px-0809Melmetal-Gigantamax.png",
+        "region":"Alola",
+        "rarity":"Mythical"
+    },
+    {
         "id":810,
         "name":"Grookey",
         "types":[
@@ -7791,6 +9350,14 @@
             "Grass"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/812.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Rillaboom",
+        "types":[
+            "Grass"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/3/38/0812Rillaboom-Gigantamax.png/100px-0812Rillaboom-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -7821,6 +9388,14 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Cinderace",
+        "types":[
+            "Fire"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/7/78/0815Cinderace-Gigantamax.png/100px-0815Cinderace-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":816,
         "name":"Sobble",
         "types":[
@@ -7845,6 +9420,14 @@
             "Water"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/818.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Inteleon",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/2/29/0818Inteleon-Gigantamax.png/100px-0818Inteleon-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -7894,6 +9477,15 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Corviknight",
+        "types":[
+            "Flying",
+            "Steel"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/5/55/0823Corviknight-Gigantamax.png/100px-0823Corviknight-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":824,
         "name":"Blipbug",
         "types":[
@@ -7920,6 +9512,15 @@
             "Psychic"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/826.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Orbeetle",
+        "types":[
+            "Bug",
+            "Psychic"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d5/0826Orbeetle-Gigantamax.png/100px-0826Orbeetle-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -7996,6 +9597,15 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Drednaw",
+        "types":[
+            "Water",
+            "Rock"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a2/0834Drednaw-Gigantamax.png/100px-0834Drednaw-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":835,
         "name":"Yamper",
         "types":[
@@ -8043,6 +9653,15 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Coalossal",
+        "types":[
+            "Rock",
+            "Fire"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/1/10/0839Coalossal-Gigantamax.png/100px-0839Coalossal-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":840,
         "name":"Applin",
         "types":[
@@ -8063,6 +9682,15 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Flapple",
+        "types":[
+            "Grass",
+            "Dragon"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/42/0841Flapple-Gigantamax.png/100px-0841Flapple-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":842,
         "name":"Appletun",
         "types":[
@@ -8070,6 +9698,15 @@
             "Dragon"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/842.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Appletun",
+        "types":[
+            "Grass",
+            "Dragon"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/42/0841Flapple-Gigantamax.png/100px-0841Flapple-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -8091,6 +9728,14 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Sandaconda",
+        "types":[
+            "Ground"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/f/fc/0844Sandaconda-Gigantamax.png/100px-0844Sandaconda-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":845,
         "name":"Cramorant",
         "types":[
@@ -8098,6 +9743,24 @@
             "Water"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/845.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Cramorant Gulping Form",
+        "types":[
+            "Flying",
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d7/0845Cramorant-Gulping.png/120px-0845Cramorant-Gulping.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Cramorant Gorging Form",
+        "types":[
+            "Flying",
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/7/78/0845Cramorant-Gorging.png/120px-0845Cramorant-Gorging.png",
         "region":"Galar"
     },
     {
@@ -8139,6 +9802,24 @@
         "region":"Galar"
     },
     {
+        "name":"Toxtricity Amped Form",
+        "types":[
+            "Electric",
+            "Poison"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/0/00/0849Toxtricity-Amped.png/250px-0849Toxtricity-Amped.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Toxtricity",
+        "types":[
+            "Electric",
+            "Poison"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/de/0849Toxtricity-Gigantamax.png/100px-0849Toxtricity-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":850,
         "name":"Sizzlipede",
         "types":[
@@ -8156,6 +9837,15 @@
             "Bug"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/851.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Centiskorch",
+        "types":[
+            "Fire",
+            "Bug"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/3/3c/0851Centiskorch-Gigantamax.png/100px-0851Centiskorch-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -8223,6 +9913,15 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Hatterene",
+        "types":[
+            "Psychic",
+            "Fairy"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/1/10/0858Hatterene-Gigantamax.png/100px-0858Hatterene-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":859,
         "name":"Impidimp",
         "types":[
@@ -8250,6 +9949,15 @@
             "Fairy"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/861.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Grimmsnarl",
+        "types":[
+            "Dark",
+            "Fairy"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/df/0861Grimmsnarl-Gigantamax.png/100px-0861Grimmsnarl-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -8328,6 +10036,14 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Alcremie",
+        "types":[
+            "Fairy"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/93/0869Alcremie-Gigantamax.png/100px-0869Alcremie-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":870,
         "name":"Falinks",
         "types":[
@@ -8384,6 +10100,14 @@
         "region":"Galar"
     },
     {
+        "name":"Eiscue Noice Face",
+        "types":[
+            "Ice"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/f/fc/0875Eiscue-Noice.png/110px-0875Eiscue-Noice.png",
+        "region":"Galar"
+    },
+    {
         "id":876,
         "name":"Indeedee Male",
         "types":[
@@ -8394,6 +10118,15 @@
         "region":"Galar"
     },
     {
+        "name":"Indeedee Female",
+        "types":[
+            "Psychic",
+            "Normal"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/4d/0876Indeedee-Female.png/120px-0876Indeedee-Female.png",
+        "region":"Galar"
+    },
+    {
         "id":877,
         "name":"Morpeko Full Belly Mode",
         "types":[
@@ -8401,6 +10134,15 @@
             "Dark"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/877.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Morpeko Hangry Mode",
+        "types":[
+            "Electric",
+            "Dark"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/2/28/0877Morpeko-Hangry.png/110px-0877Morpeko-Hangry.png",
         "region":"Galar"
     },
     {
@@ -8419,6 +10161,14 @@
             "Steel"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/879.png",
+        "region":"Galar"
+    },
+    {
+        "name":"Gmax Copperajah",
+        "types":[
+            "Steel"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/1/19/0879Copperajah-Gigantamax.png/100px-0879Copperajah-Gigantamax.png",
         "region":"Galar"
     },
     {
@@ -8472,6 +10222,15 @@
         "region":"Galar"
     },
     {
+        "name":"Gmax Duraludon",
+        "types":[
+            "Steel",
+            "Dragon"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d4/0884Duraludon-Gigantamax.png/100px-0884Duraludon-Gigantamax.png",
+        "region":"Galar"
+    },
+    {
         "id":885,
         "name":"Dreepy",
         "types":[
@@ -8512,12 +10271,32 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Zacian Crowned Sword",
+        "types":[
+            "Fairy",
+            "Steel"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/98/0888Zacian.png/110px-0888Zacian.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
         "id":889,
         "name":"Zamazenta Hero of Many Battles",
         "types":[
             "Fighting"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/889.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Zamazenta Crowned Shield",
+        "types":[
+            "Fighting",
+            "Steel"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/41/0889Zamazenta.png/110px-0889Zamazenta.png",
         "region":"Galar",
         "rarity":"Legendary"
     },
@@ -8554,12 +10333,32 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Gmax Single Strike Style Urshifu",
+        "types":[
+            "Fighting",
+            "Dark"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/92/0892Urshifu-Gigantamax_Single_Strike.png/100px-0892Urshifu-Gigantamax_Single_Strike.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
         "name":"Urshifu Rapid Strike Style",
         "types":[
             "Fighting",
             "Water"
         ],
         "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/4a/0892Urshifu-Rapid_Strike.png/110px-0892Urshifu-Rapid_Strike.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Gmax Rapid Strike Style Urshifu",
+        "types":[
+            "Fighting",
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a3/0892Urshifu-Gigantamax_Rapid_Strike.png/100px-0892Urshifu-Gigantamax_Rapid_Strike.png",
         "region":"Galar",
         "rarity":"Legendary"
     },
@@ -8626,6 +10425,26 @@
         "rarity":"Legendary"
     },
     {
+        "name":"Ice Rider Calyrex",
+        "types":[
+            "Psychic",
+            "Ice"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/6b/0898Calyrex-Ice_Rider.png/110px-0898Calyrex-Ice_Rider.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Shadow Rider Calyrex",
+        "types":[
+            "Psychic",
+            "Ghost"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/9b/0898Calyrex-Shadow_Rider.png/110px-0898Calyrex-Shadow_Rider.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
         "id":899,
         "name":"Wyrdeer",
         "types":[
@@ -8666,6 +10485,15 @@
         "region":"Galar"
     },
     {
+        "name":"Basculegion Female",
+        "types":[
+            "Water",
+            "Ghost"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/7/73/0902Basculegion-Female.png/120px-0902Basculegion-Female.png",
+        "region":"Galar"
+    },
+    {
         "id":903,
         "name":"Sneasler",
         "types":[
@@ -8693,6 +10521,16 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/905.png",
+        "region":"Galar",
+        "rarity":"Legendary"
+    },
+    {
+        "name":"Enamorus Therian Forme",
+        "types":[
+            "Fairy",
+            "Flying"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/43/0905Enamorus-Therian.png/110px-0905Enamorus-Therian.png",
         "region":"Galar",
         "rarity":"Legendary"
     },
@@ -8799,6 +10637,14 @@
         "region":"Paldea"
     },
     {
+        "name":"Oinkologne Female",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d8/0916Oinkologne-Female.png/120px-0916Oinkologne-Female.png",
+        "region":"Paldea"
+    },
+    {
         "id":917,
         "name":"Tarountula",
         "types":[
@@ -8874,6 +10720,14 @@
         "region":"Paldea"
     },
     {
+        "name":"Maushold Family of Three",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/ab/0925Maushold-Three.png/120px-0925Maushold-Three.png",
+        "region":"Paldea"
+    },
+    {
         "id":925,
         "name":"Maushold Family of Four",
         "types":[
@@ -8938,6 +10792,33 @@
             "Flying"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/931.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Squawkabilly Blue Plumage",
+        "types":[
+            "Normal",
+            "Flying"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/6a/HOME0931B.png/110px-HOME0931B.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Squawkabilly Yellow Plumage",
+        "types":[
+            "Normal",
+            "Flying"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/9e/HOME0931Y.png/110px-HOME0931Y.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Squawkabilly White Plumage",
+        "types":[
+            "Normal",
+            "Flying"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/b/b3/HOME0931W.png/110px-HOME0931W.png",
         "region":"Paldea"
     },
     {
@@ -9254,6 +11135,14 @@
         "region":"Paldea"
     },
     {
+        "name":"Palafin Hero Form",
+        "types":[
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/43/0964Palafin-Hero.png/110px-0964Palafin-Hero.png",
+        "region":"Paldea"
+    },
+    {
         "id":965,
         "name":"Varoom",
         "types":[
@@ -9388,6 +11277,24 @@
         "region":"Paldea"
     },
     {
+        "name":"Tatsugiri Droopy Form",
+        "types":[
+            "Dragon",
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/5/5b/0978Tatsugiri-Droopy.png/110px-0978Tatsugiri-Droopy.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Tatsugiri Stretchy Form",
+        "types":[
+            "Dragon",
+            "Water"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/0/06/0978Tatsugiri-Stretchy.png/110px-0978Tatsugiri-Stretchy.png",
+        "region":"Paldea"
+    },
+    {
         "id":979,
         "name":"Annihilape",
         "types":[
@@ -9424,6 +11331,14 @@
             "Normal"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/982.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Dudunsparce Three-Segment Form",
+        "types":[
+            "Normal"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/66/HOME0982Th.png/110px-HOME0982Th.png",
         "region":"Paldea"
     },
     {
@@ -9593,6 +11508,14 @@
             "Ghost"
         ],
         "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/999.png",
+        "region":"Paldea"
+    },
+    {
+        "name":"Gimmighoul Roaming Form",
+        "types":[
+            "Ghost"
+        ],
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/40/0999Gimmighoul-Roaming.png/110px-0999Gimmighoul-Roaming.png",
         "region":"Paldea"
     },
     {
@@ -9783,1921 +11706,5 @@
         "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a5/1017Ogerpon.png/250px-1017Ogerpon.png",
         "region":"Paldea",
         "rarity":"Legendary"
-    },
-    {
-        "name":"Hisuian Growlithe",
-        "types":[
-            "Fire",
-            "Bug"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/058-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Arcanine",
-        "types":[
-            "Fire",
-            "Rock"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/059-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Voltorb",
-        "types":[
-            "Electric",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/100-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Electrode",
-        "types":[
-            "Electric",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/101-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Typhlosion",
-        "types":[
-            "Fire",
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/157-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Qwilfish",
-        "types":[
-            "Dark",
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/211-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Samurott",
-        "types":[
-            "Water",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/503-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Lilligant",
-        "types":[
-            "Grass",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/549-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Zorua",
-        "types":[
-            "Normal",
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/570-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Zoroark",
-        "types":[
-            "Normal",
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/571-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Braviary",
-        "types":[
-            "Psychic",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/628-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Sliggoo",
-        "types":[
-            "Dragon",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/705-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Goodra",
-        "types":[
-            "Dragon",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/706-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Avalugg",
-        "types":[
-            "Ice",
-            "Rock"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/713-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Decidueye",
-        "types":[
-            "Grass",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/724-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Hisuian Sneasel",
-        "types":[
-            "Poison",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/215-Hisui.png",
-        "region":"Hisui"
-    },
-    {
-        "name":"Alolan Rattata",
-        "types":[
-            "Dark",
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/019-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Raticate",
-        "types":[
-            "Dark",
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/020-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Raichu",
-        "types":[
-            "Electric",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/026-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Sandshrew",
-        "types":[
-            "Ice",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/027-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Sandslash",
-        "types":[
-            "Ice",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/028-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Vulpix",
-        "types":[
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/037-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Ninetales",
-        "types":[
-            "Ice",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/038-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Diglett",
-        "types":[
-            "Ground",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/050-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Dugtrio",
-        "types":[
-            "Ground",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/051-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Meowth",
-        "types":[
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/052-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Persian",
-        "types":[
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/053-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Geodude",
-        "types":[
-            "Rock",
-            "Electric"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/074-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Graveler",
-        "types":[
-            "Rock",
-            "Electric"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/075-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Golem",
-        "types":[
-            "Rock",
-            "Electric"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/076-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Grimer",
-        "types":[
-            "Poison",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/088-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Muk",
-        "types":[
-            "Poison",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/089-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Exeggutor",
-        "types":[
-            "Grass",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/103-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Alolan Marowak",
-        "types":[
-            "Fire",
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/105-Alola.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Galarian Meowth",
-        "types":[
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/052-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Ponyta",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/077-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Rapidash",
-        "types":[
-            "Psychic",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/078-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Slowpoke",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/079-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Slowbro",
-        "types":[
-            "Poison",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/080-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Farfetch'd",
-        "types":[
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/083-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Weezing",
-        "types":[
-            "Poison",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/110-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Mr. Mime",
-        "types":[
-            "Ice",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/122-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Articuno",
-        "types":[
-            "Psychic",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/144-Galar.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Galarian Zapdos",
-        "types":[
-            "Fighting",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/145-Galar.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Galarian Moltres",
-        "types":[
-            "Dark",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/146-Galar.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Galarian Slowking",
-        "types":[
-            "Poison",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/199-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Corsola",
-        "types":[
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/222-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Zigzagoon",
-        "types":[
-            "Dark",
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/263-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Linoone",
-        "types":[
-            "Dark",
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/264-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Darumaka",
-        "types":[
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/554-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Darmanitan Standard Mode",
-        "types":[
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/555-Galar-Standard.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Darmanitan Zen Mode",
-        "types":[
-            "Ice",
-            "Fire"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/555-Galar-Zen.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Yamask",
-        "types":[
-            "Ground",
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/562-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Galarian Stunfisk",
-        "types":[
-            "Ground",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/618-Galar.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Venusaur",
-        "types":[
-            "Grass",
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/003-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Charizard",
-        "types":[
-            "Fire",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Blastoise",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/009-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Butterfree",
-        "types":[
-            "Bug",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/012-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Pikachu",
-        "types":[
-            "Electric"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/025-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Meowth",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/052-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Machamp",
-        "types":[
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/068-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Gengar",
-        "types":[
-            "Ghost",
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/094-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Kingler",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/099-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Lapras",
-        "types":[
-            "Water",
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/131-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Eevee",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/133-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Snorlax",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/143-Gmax.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Gmax Garbodor",
-        "types":[
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/569-Gmax.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Gmax Melmetal",
-        "types":[
-            "Steel"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a1/0809Melmetal-Gigantamax.png/100px-0809Melmetal-Gigantamax.png",
-        "region":"Alola",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Gmax Corviknight",
-        "types":[
-            "Flying",
-            "Steel"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/5/55/0823Corviknight-Gigantamax.png/100px-0823Corviknight-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Orbeetle",
-        "types":[
-            "Bug",
-            "Psychic"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d5/0826Orbeetle-Gigantamax.png/100px-0826Orbeetle-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Drednaw",
-        "types":[
-            "Water",
-            "Rock"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a2/0834Drednaw-Gigantamax.png/100px-0834Drednaw-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Coalossal",
-        "types":[
-            "Rock",
-            "Fire"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/1/10/0839Coalossal-Gigantamax.png/100px-0839Coalossal-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Flapple and Appletun",
-        "types":[
-            "Grass",
-            "Dragon"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/42/0841Flapple-Gigantamax.png/100px-0841Flapple-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Sandaconda",
-        "types":[
-            "Ground"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/f/fc/0844Sandaconda-Gigantamax.png/100px-0844Sandaconda-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Toxtricity",
-        "types":[
-            "Electric",
-            "Poison"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/de/0849Toxtricity-Gigantamax.png/100px-0849Toxtricity-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Centiskorch",
-        "types":[
-            "Fire",
-            "Bug"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/3/3c/0851Centiskorch-Gigantamax.png/100px-0851Centiskorch-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Hatterene",
-        "types":[
-            "Psychic",
-            "Fairy"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/1/10/0858Hatterene-Gigantamax.png/100px-0858Hatterene-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Grimmsnarl",
-        "types":[
-            "Dark",
-            "Fairy"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/df/0861Grimmsnarl-Gigantamax.png/100px-0861Grimmsnarl-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Alcremie",
-        "types":[
-            "Fairy"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/93/0869Alcremie-Gigantamax.png/100px-0869Alcremie-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Copperajah",
-        "types":[
-            "Steel"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/1/19/0879Copperajah-Gigantamax.png/100px-0879Copperajah-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Duraludon",
-        "types":[
-            "Steel",
-            "Dragon"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d4/0884Duraludon-Gigantamax.png/100px-0884Duraludon-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Rillaboom",
-        "types":[
-            "Grass"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/3/38/0812Rillaboom-Gigantamax.png/100px-0812Rillaboom-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Cinderace",
-        "types":[
-            "Fire"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/7/78/0815Cinderace-Gigantamax.png/100px-0815Cinderace-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Inteleon",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/2/29/0818Inteleon-Gigantamax.png/100px-0818Inteleon-Gigantamax.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Gmax Single Strike Style Urshifu",
-        "types":[
-            "Fighting",
-            "Dark"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/92/0892Urshifu-Gigantamax_Single_Strike.png/100px-0892Urshifu-Gigantamax_Single_Strike.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Gmax Rapid Strike Style Urshifu",
-        "types":[
-            "Fighting",
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/a3/0892Urshifu-Gigantamax_Rapid_Strike.png/100px-0892Urshifu-Gigantamax_Rapid_Strike.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Mega Venusaur",
-        "types":[
-            "Grass",
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/003-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Charizard X",
-        "types":[
-            "Fire",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Mega-X.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Charizard Y",
-        "types":[
-            "Fire",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Mega-Y.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Blastoise",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/009-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Alakazam",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/065-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Gengar",
-        "types":[
-            "Ghost",
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/094-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Kangaskhan",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/115-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Pinsir",
-        "types":[
-            "Bug",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/127-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Gyarados",
-        "types":[
-            "Water",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/130-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Aerodactyl",
-        "types":[
-            "Rock",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/142-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Mewtwo X",
-        "types":[
-            "Psychic",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/150-Mega-X.png",
-        "region":"Kanto",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Mega Mewtwo Y",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/150-Mega-Y.png",
-        "region":"Kanto",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Mega Ampharos",
-        "types":[
-            "Electric",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/181-Mega.png",
-        "region":"Johto"
-    },
-    {
-        "name":"Mega Scizor",
-        "types":[
-            "Bug",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/212-Mega.png",
-        "region":"Johto"
-    },
-    {
-        "name":"Mega Heracross",
-        "types":[
-            "Bug",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/214-Mega.png",
-        "region":"Johto"
-    },
-    {
-        "name":"Mega Houndoom",
-        "types":[
-            "Dark",
-            "Fire"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/229-Mega.png",
-        "region":"Johto"
-    },
-    {
-        "name":"Mega Tyranitar",
-        "types":[
-            "Rock",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/248-Mega.png",
-        "region":"Johto"
-    },
-    {
-        "name":"Mega Blaziken",
-        "types":[
-            "Fire",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/257-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Gardevoir",
-        "types":[
-            "Psychic",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/282-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Mawile",
-        "types":[
-            "Steel",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/303-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Aggron",
-        "types":[
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/306-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Medicham",
-        "types":[
-            "Fighting",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/308-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Manectric",
-        "types":[
-            "Electric"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/310-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Banette",
-        "types":[
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/354-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Absol",
-        "types":[
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/359-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Latias",
-        "types":[
-            "Dragon",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/380-Mega.png",
-        "region":"Hoenn",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Mega Latios",
-        "types":[
-            "Dragon",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/381-Mega.png",
-        "region":"Hoenn",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Mega Garchomp",
-        "types":[
-            "Dragon",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/445-Mega.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Mega Lucario",
-        "types":[
-            "Fighting",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/448-Mega.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Mega Abomasnow",
-        "types":[
-            "Grass",
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/460-Mega.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Mega Beedrill",
-        "types":[
-            "Bug",
-            "Poison"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/015-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Pidgeot",
-        "types":[
-            "Normal",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/018-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Slowbro",
-        "types":[
-            "Water",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/080-Mega.png",
-        "region":"Kanto"
-    },
-    {
-        "name":"Mega Steelix",
-        "types":[
-            "Steel",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/208-Mega.png",
-        "region":"Johto"
-    },
-    {
-        "name":"Mega Sceptile",
-        "types":[
-            "Grass",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/254-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Swampert",
-        "types":[
-            "Water",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/260-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Sableye",
-        "types":[
-            "Dark",
-            "Ghost"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/302-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Sharpedo",
-        "types":[
-            "Water",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/319-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Camerupt",
-        "types":[
-            "Fire",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/323-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Altaria",
-        "types":[
-            "Dragon",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/334-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Glalie",
-        "types":[
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/362-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Salamence",
-        "types":[
-            "Dragon",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/373-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Metagross",
-        "types":[
-            "Steel",
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/376-Mega.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Mega Rayquaza",
-        "types":[
-            "Dragon",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/384-Mega.png",
-        "region":"Hoenn",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Mega Lopunny",
-        "types":[
-            "Normal",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/428-Mega.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Mega Gallade",
-        "types":[
-            "Psychic",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/475-Mega.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Mega Audino",
-        "types":[
-            "Normal",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/531-Mega.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Mega Diancie",
-        "types":[
-            "Rock",
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/719-Mega.png",
-        "region":"Kalos",
-        "rarity":"Mythical"
-    },
-    {
-        "id":382,
-        "name":"Primal Kyogre",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/382-Primal.png",
-        "region":"Hoenn",
-        "rarity":"Legendary"
-    },
-    {
-        "id":383,
-        "name":"Primal Groudon",
-        "types":[
-            "Ground",
-            "Fire"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/383-Primal.png",
-        "region":"Hoenn",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Darmanitan Zen Mode",
-        "types":[
-            "Fire"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/555-Zen.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Morpeko Hangry Mode",
-        "types":[
-            "Electric",
-            "Dark"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/2/28/0877Morpeko-Hangry.png/110px-0877Morpeko-Hangry.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Paldean Wooper",
-        "types":[
-            "Poison",
-            "Ground"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/b/bb/0194Wooper-Paldea.png/110px-0194Wooper-Paldea.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Paldean Tauros Combat Breed",
-        "types":[
-            "Fighting"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/2/25/0128Tauros-Paldea_Combat.png/110px-0128Tauros-Paldea_Combat.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Paldean Tauros Blaze Breed",
-        "types":[
-            "Fighting",
-            "Fire"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/f/f5/0128Tauros-Paldea_Blaze.png/110px-0128Tauros-Paldea_Blaze.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Paldean Tauros Aqua Breed",
-        "types":[
-            "Fighting",
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d9/0128Tauros-Paldea_Aqua.png/110px-0128Tauros-Paldea_Aqua.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Castform Sunny Form",
-        "types":[
-            "Fire"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/90/0351Castform-Sunny.png/110px-0351Castform-Sunny.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Castform Rainy Form",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/ab/0351Castform-Rainy.png/110px-0351Castform-Rainy.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Castform Snowy Form",
-        "types":[
-            "Ice"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/3/34/0351Castform-Snowy.png/110px-0351Castform-Snowy.png",
-        "region":"Hoenn"
-    },
-    {
-        "name":"Deoxys Attack Forme",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/386-Attack.png",
-        "region":"Hoenn",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Deoxys Defense Forme",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/386-Defense.png",
-        "region":"Hoenn",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Deoxys Speed Forme",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/386-Speed.png",
-        "region":"Hoenn",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Wormadam Sandy Cloak",
-        "types":[
-            "Bug",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/413-Sandy.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Wormadam Trash Cloak",
-        "types":[
-            "Bug",
-            "Steel"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/413-Trash.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Burmy Sandy Cloak",
-        "types":[
-            "Bug"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/412-Sandy.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Burmy Trash Cloak",
-        "types":[
-            "Bug"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/412-Trash.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Cherrim Sunshine Form",
-        "types":[
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/421-Sunshine.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Shellos East",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/422-East.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Gastrodon East",
-        "types":[
-            "Water",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/423-East.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Heat Rotom",
-        "types":[
-            "Electric",
-            "Fire"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Heat.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Wash Rotom",
-        "types":[
-            "Electric",
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Wash.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Frost Rotom",
-        "types":[
-            "Electric",
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Frost.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Fan Rotom",
-        "types":[
-            "Electric",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Fan.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Mow Rotom",
-        "types":[
-            "Electric",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/479-Mow.png",
-        "region":"Sinnoh"
-    },
-    {
-        "name":"Dialga Origin Forme",
-        "types":[
-            "Steel",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/483-Origin.png",
-        "region":"Sinnoh",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Palkia Origin Forme",
-        "types":[
-            "Water",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/484-Origin.png",
-        "region":"Sinnoh",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Giratina Origin Forme",
-        "types":[
-            "Ghost",
-            "Dragon"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/487-Origin.png",
-        "region":"Sinnoh",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Shaymin Sky Forme",
-        "types":[
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/492-Sky.png",
-        "region":"Sinnoh",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Deerling Autumn Form",
-        "types":[
-            "Normal",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/585-Autumn.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Deerling Summer Form",
-        "types":[
-            "Normal",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/585-Summer.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Deerling Winter Form",
-        "types":[
-            "Normal",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/585-Winter.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Sawsbuck Autumn Form",
-        "types":[
-            "Normal",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/586-Autumn.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Sawsbuck Summer Form",
-        "types":[
-            "Normal",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/586-Summer.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Sawsbuck Winter Form",
-        "types":[
-            "Normal",
-            "Grass"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/586-Winter.png",
-        "region":"Unova"
-    },
-    {
-        "name":"Tornadus Therian Forme",
-        "types":[
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/641-Therian.png",
-        "region":"Unova",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Thundurus Therian Forme",
-        "types":[
-            "Electric",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/642-Therian.png",
-        "region":"Unova",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Landorus Therian Forme",
-        "types":[
-            "Ground",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/645-Therian.png",
-        "region":"Unova",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Kyurem Black",
-        "types":[
-            "Dragon",
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/646-Black.png",
-        "region":"Unova",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Kyurem White",
-        "types":[
-            "Dragon",
-            "Ice"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/646-White.png",
-        "region":"Unova",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Keldeo Resolute Form",
-        "types":[
-            "Water",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/647-Resolute.png",
-        "region":"Unova",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Meloetta Pirouette Forme",
-        "types":[
-            "Normal",
-            "Fighting"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/648-Pirouette.png",
-        "region":"Unova",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Ash-Greninja",
-        "types":[
-            "Water",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/658-Ash.png",
-        "region":"Kalos"
-    },
-    {
-        "name":"Floette Eternal",
-        "types":[
-            "Fairy"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/670-Eternal.png",
-        "region":"Kalos"
-    },
-    {
-        "name":"Meowstic Male",
-        "types":[
-            "Psychic"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/678.png",
-        "region":"Kalos"
-    },
-    {
-        "name":"Zygarde 10% Forme",
-        "types":[
-            "Dragon",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/718-10.png",
-        "region":"Kalos",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Zygarde Complete Forme",
-        "types":[
-            "Dragon",
-            "Ground"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/718-Complete.png",
-        "region":"Kalos",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Hoopa Unbound",
-        "types":[
-            "Psychic",
-            "Dark"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/720-Unbound.png",
-        "region":"Kalos",
-        "rarity":"Mythical"
-    },
-    {
-        "name":"Oricorio Pom-Pom Style",
-        "types":[
-            "Electric",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Pom-Pom.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Oricorio Pa'u Style",
-        "types":[
-            "Psychic",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Pau.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Oricorio Sensu Style",
-        "types":[
-            "Ghost",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Sensu.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Lycanroc Midnight Form",
-        "types":[
-            "Rock"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/745-Midnight.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Lycanroc Dusk Form",
-        "types":[
-            "Rock"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/745-Dusk.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Wishiwashi School Form",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/746-School.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Minior Core Form",
-        "types":[
-            "Rock",
-            "Flying"
-        ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/774-Red.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Mimikyu Busted Form",
-        "types":[
-            "Ghost",
-            "Fairy"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/4d/HOME0778B.png/110px-HOME0778B.png",
-        "region":"Alola"
-    },
-    {
-        "name":"Dusk Mane Necrozma",
-        "types":[
-            "Psychic",
-            "Steel"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/6b/0800Necrozma-Dusk_Mane.png/110px-0800Necrozma-Dusk_Mane.png",
-        "region":"Alola",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Dawn Wings Necrozma",
-        "types":[
-            "Psychic",
-            "Ghost"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/67/0800Necrozma-Dawn_Wings.png/110px-0800Necrozma-Dawn_Wings.png",
-        "region":"Alola",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Ultra Necrozma",
-        "types":[
-            "Psychic",
-            "Dragon"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/e/e9/0800Necrozma-Ultra.png/110px-0800Necrozma-Ultra.png",
-        "region":"Alola",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Cramorant Gulping Form",
-        "types":[
-            "Flying",
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d7/0845Cramorant-Gulping.png/120px-0845Cramorant-Gulping.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Cramorant Gorging Form",
-        "types":[
-            "Flying",
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/7/78/0845Cramorant-Gorging.png/120px-0845Cramorant-Gorging.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Toxtricity Amped Form",
-        "types":[
-            "Electric",
-            "Poison"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/0/00/0849Toxtricity-Amped.png/250px-0849Toxtricity-Amped.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Eiscue Noice Face",
-        "types":[
-            "Ice"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/f/fc/0875Eiscue-Noice.png/110px-0875Eiscue-Noice.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Indeedee Female",
-        "types":[
-            "Psychic",
-            "Normal"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/4d/0876Indeedee-Female.png/120px-0876Indeedee-Female.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Zacian Crowned Sword",
-        "types":[
-            "Fairy",
-            "Steel"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/98/0888Zacian.png/110px-0888Zacian.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Zamazenta Crowned Shield",
-        "types":[
-            "Fighting",
-            "Steel"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/41/0889Zamazenta.png/110px-0889Zamazenta.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Ice Rider Calyrex",
-        "types":[
-            "Psychic",
-            "Ice"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/6b/0898Calyrex-Ice_Rider.png/110px-0898Calyrex-Ice_Rider.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Shadow Rider Calyrex",
-        "types":[
-            "Psychic",
-            "Ghost"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/9b/0898Calyrex-Shadow_Rider.png/110px-0898Calyrex-Shadow_Rider.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Basculegion Female",
-        "types":[
-            "Water",
-            "Ghost"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/7/73/0902Basculegion-Female.png/120px-0902Basculegion-Female.png",
-        "region":"Galar"
-    },
-    {
-        "name":"Enamorus Therian Forme",
-        "types":[
-            "Fairy",
-            "Flying"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/43/0905Enamorus-Therian.png/110px-0905Enamorus-Therian.png",
-        "region":"Galar",
-        "rarity":"Legendary"
-    },
-    {
-        "name":"Oinkologne Female",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/d/d8/0916Oinkologne-Female.png/120px-0916Oinkologne-Female.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Maushold Family of Three",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/a/ab/0925Maushold-Three.png/120px-0925Maushold-Three.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Squawkabilly Blue Plumage",
-        "types":[
-            "Normal",
-            "Flying"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/6a/HOME0931B.png/110px-HOME0931B.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Squawkabilly Yellow Plumage",
-        "types":[
-            "Normal",
-            "Flying"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/9/9e/HOME0931Y.png/110px-HOME0931Y.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Squawkabilly White Plumage",
-        "types":[
-            "Normal",
-            "Flying"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/b/b3/HOME0931W.png/110px-HOME0931W.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Palafin Hero Form",
-        "types":[
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/43/0964Palafin-Hero.png/110px-0964Palafin-Hero.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Tatsugiri Droopy Form",
-        "types":[
-            "Dragon",
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/5/5b/0978Tatsugiri-Droopy.png/110px-0978Tatsugiri-Droopy.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Tatsugiri Stretchy Form",
-        "types":[
-            "Dragon",
-            "Water"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/0/06/0978Tatsugiri-Stretchy.png/110px-0978Tatsugiri-Stretchy.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Dudunsparce Three-Segment Form",
-        "types":[
-            "Normal"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/66/HOME0982Th.png/110px-HOME0982Th.png",
-        "region":"Paldea"
-    },
-    {
-        "name":"Gimmighoul Roaming Form",
-        "types":[
-            "Ghost"
-        ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/4/40/0999Gimmighoul-Roaming.png/110px-0999Gimmighoul-Roaming.png",
-        "region":"Paldea"
-    } 
+    }
 ]
