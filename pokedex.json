@@ -10545,7 +10545,7 @@
             "Grass",
             "Poison"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/001-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10554,7 +10554,7 @@
             "Fire",
             "Dragon"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006-Mega-X.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Mega-X.png",
         "region":"Kanto"
     },
     {
@@ -10563,7 +10563,7 @@
             "Fire",
             "Flying"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006-Mega-Y.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Mega-Y.png",
         "region":"Kanto"
     },
     {
@@ -10571,7 +10571,7 @@
         "types":[
             "Water"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/009-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10579,7 +10579,7 @@
         "types":[
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/065-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10588,7 +10588,7 @@
             "Ghost",
             "Poison"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/094-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10596,7 +10596,7 @@
         "types":[
             "Normal"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/115-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10605,7 +10605,7 @@
             "Bug",
             "Flying"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/127-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10614,7 +10614,7 @@
             "Water",
             "Dark"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/130-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10623,7 +10623,7 @@
             "Rock",
             "Flying"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/142-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10632,7 +10632,7 @@
             "Psychic",
             "Fighting"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150-Mega-X.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/150-Mega-X.png",
         "region":"Kanto",
         "rarity":"Legendary"
     },
@@ -10641,7 +10641,7 @@
         "types":[
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150-Mega-Y.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/150-Mega-Y.png",
         "region":"Kanto",
         "rarity":"Legendary"
     },
@@ -10651,7 +10651,7 @@
             "Electric",
             "Dragon"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/181-Mega.png",
         "region":"Johto"
     },
     {
@@ -10660,7 +10660,7 @@
             "Bug",
             "Steel"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/212-Mega.png",
         "region":"Johto"
     },
     {
@@ -10669,7 +10669,7 @@
             "Bug",
             "Fighting"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/214-Mega.png",
         "region":"Johto"
     },
     {
@@ -10678,7 +10678,7 @@
             "Dark",
             "Fire"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/229-Mega.png",
         "region":"Johto"
     },
     {
@@ -10687,7 +10687,7 @@
             "Rock",
             "Dark"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/248-Mega.png",
         "region":"Johto"
     },
     {
@@ -10696,7 +10696,7 @@
             "Fire",
             "Fighting"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/257-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10705,7 +10705,7 @@
             "Psychic",
             "Fairy"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/282-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10714,7 +10714,7 @@
             "Steel",
             "Fairy"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/303-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10722,7 +10722,7 @@
         "types":[
             "Steel"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/306-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/306-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10731,7 +10731,7 @@
             "Fighting",
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/308-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/308-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10739,7 +10739,7 @@
         "types":[
             "Electric"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/310-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10747,7 +10747,7 @@
         "types":[
             "Ghost"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/354-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10755,7 +10755,7 @@
         "types":[
             "Dark"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/359-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10764,7 +10764,7 @@
             "Dragon",
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/380-Mega.png",
         "region":"Hoenn",
         "rarity":"Legendary"
     },
@@ -10774,7 +10774,7 @@
             "Dragon",
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/381-Mega.png",
         "region":"Hoenn",
         "rarity":"Legendary"
     },
@@ -10784,7 +10784,7 @@
             "Dragon",
             "Ground"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/445-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/445-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -10793,7 +10793,7 @@
             "Fighting",
             "Steel"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/448-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -10802,7 +10802,7 @@
             "Grass",
             "Ice"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/460-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -10811,7 +10811,7 @@
             "Bug",
             "Poison"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/015-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10820,7 +10820,7 @@
             "Normal",
             "Flying"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/018-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10829,7 +10829,7 @@
             "Water",
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/080-Mega.png",
         "region":"Kanto"
     },
     {
@@ -10838,7 +10838,7 @@
             "Steel",
             "Ground"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/208-Mega.png",
         "region":"Johto"
     },
     {
@@ -10847,7 +10847,7 @@
             "Grass",
             "Dragon"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/254-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10856,7 +10856,7 @@
             "Water",
             "Ground"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/260-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10865,7 +10865,7 @@
             "Dark",
             "Ghost"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/302-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/302-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10874,7 +10874,7 @@
             "Water",
             "Dark"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/319-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/319-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10883,7 +10883,7 @@
             "Fire",
             "Ground"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/323-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10892,7 +10892,7 @@
             "Dragon",
             "Fairy"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/334-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10900,7 +10900,7 @@
         "types":[
             "Ice"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/362-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10909,7 +10909,7 @@
             "Dragon",
             "Flying"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/373-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/373-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10918,7 +10918,7 @@
             "Steel",
             "Psychic"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/376-Mega.png",
         "region":"Hoenn"
     },
     {
@@ -10927,7 +10927,7 @@
             "Dragon",
             "Flying"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/384-Mega.png",
         "region":"Hoenn",
         "rarity":"Legendary"
     },
@@ -10937,7 +10937,7 @@
             "Normal",
             "Fighting"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/428-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -10946,7 +10946,7 @@
             "Psychic",
             "Fighting"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/475-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/475-Mega.png",
         "region":"Sinnoh"
     },
     {
@@ -10955,7 +10955,7 @@
             "Normal",
             "Fairy"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/531-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/531-Mega.png",
         "region":"Unova"
     },
     {
@@ -10964,7 +10964,7 @@
             "Rock",
             "Fairy"
         ],
-        "artwork":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/719-Mega.png",
         "region":"Kalos",
         "rarity":"Mythical"
     },
