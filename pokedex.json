@@ -10540,12 +10540,12 @@
         "rarity":"Legendary"
     },
     {
-        "name":"Mega Bulbasaur",
+        "name":"Mega Venusaur",
         "types":[
             "Grass",
             "Poison"
         ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/001-Mega.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/003-Mega.png",
         "region":"Kanto"
     },
     {
@@ -11131,7 +11131,7 @@
         "types":[
             "Grass"
         ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/412-Sunshine.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/421-Sunshine.png",
         "region":"Sinnoh"
     },
     {
@@ -11437,7 +11437,7 @@
             "Ghost",
             "Flying"
         ],
-        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Ghost.png",
+        "artwork":"https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/741-Sensu.png",
         "region":"Alola"
     },
     {
@@ -11498,7 +11498,7 @@
             "Psychic",
             "Ghost"
         ],
-        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/67/0800Necrozma-Dawn_Wings.png/250px-0800Necrozma-Dawn_Wings.png",
+        "artwork":"https://archives.bulbagarden.net/media/upload/thumb/6/67/0800Necrozma-Dawn_Wings.png/110px-0800Necrozma-Dawn_Wings.png",
         "region":"Alola",
         "rarity":"Legendary"
     },
